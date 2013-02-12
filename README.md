@@ -8,4 +8,4 @@ While TIMTOWTDI is true, in this case I always get a facepalm.  The goal of this
 	|  _  |  __/ | | (_) |   \ V  V / (_) | |  | | (_| |
 	|_| |_|\___|_|_|\___/     \_/\_/ \___/|_|  |_|\__,_|
 	
-Markdown assumes all lines indended are source code
+Markdown assumes all lines indended are source code.
