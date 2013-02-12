@@ -9,3 +9,5 @@ While TIMTOWTDI is true, in this case I always get a facepalm.  The goal of this
 	|_| |_|\___|_|_|\___/     \_/\_/ \___/|_|  |_|\__,_|
 	
 Markdown assumes all lines indended are source code.
+
+More info on the markdown syntax: http://daringfireball.net/projects/markdown/syntax
