@@ -7,3 +7,5 @@ While TIMTOWTDI is true, in this case I always get a facepalm.  The goal of this
 	| |_| |/ _ \ | |/ _ \   \ \ /\ / / _ \| '__| |/ _` |
 	|  _  |  __/ | | (_) |   \ V  V / (_) | |  | | (_| |
 	|_| |_|\___|_|_|\___/     \_/\_/ \___/|_|  |_|\__,_|
+	
+Markdown assumes all lines indended are source code
